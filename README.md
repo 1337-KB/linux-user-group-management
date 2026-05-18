@@ -14,7 +14,6 @@ isolated access controls per department.
 ## Technologies Used
 - Linux (Ubuntu)
 - Bash
-- OpenStack (Sheridan Cloud Environment)
 
 ## Commands Covered
 useradd, userdel, groupadd, usermod, chmod, chown, passwd, id
